@@ -2,7 +2,7 @@
 
 _Named after the current number one Magnus Carlsen - no affiliation_
 
-##Scope: 6 months to write a Chess Engine in Scala
+##Scope: Long term project to write a Chess Engine in Scala
 
 ##Goal
 > "To build a chess engine in Scala using the foundations and principles of chess engine theory that's been built up over the last 40 years or so. Also, partially an opportunity for me to try out Scala as a language and see how truly efficient it is in the domain of highly CPU intensive operations"

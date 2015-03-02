@@ -1,9 +1,11 @@
-#Scarlsen (Scala Chess Engine named after the current number one Magnus Carlsen - _no affiliation_)
+#Scarlsen - Scala Chess Engine 
+
+_Named after the current number one Magnus Carlsen - no affiliation_
 
 ##Scope: 6 months to write a Chess Engine in Scala
 
 ##Goal
-> "I want to be able to learn how to build an basic chess engine in Scala journeying to a more advanced chess engine. Enough so that I have the information / resources I need to write and test the code myself"
+> "To build a chess engine in Scala using the foundations and principles of chess engine theory that's been built up over the last 40 years or so. Also, partially an opportunity for me to try out Scala as a language and see how truly efficient it is in the domain of highly CPU intensive operations"
 
 ##Resources
 
